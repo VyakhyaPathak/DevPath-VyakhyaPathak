@@ -1,0 +1,76 @@
+[33mce9eef7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeat/sitemap-xml-endpoint[m[33m, [m[1;31morigin/feat/sitemap-xml-endpoint[m[33m)[m feat: add /sitemap.xml endpoint and robots.txt for SEO indexing
+[33ma620fc3[m[33m ([m[1;31morigin/feature/dark-mode-toggle[m[33m, [m[1;32mmain[m[33m, [m[1;32mfeature/dark-mode-toggle[m[33m)[m fix:Add Dark Mode Toggle to the Website
+[33mf85108a[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Merge pull request #50 from PraneshJha1038/add-dropdown-for-skills
+[33mf2895fc[m Merge pull request #32 from Akshat-Neeraj/fix-mobile-form-spacing
+[33mdc1cdc7[m fixed automations
+[33m68693ac[m Merge pull request #27 from devcode-srish/docs/recommender-comments
+[33m55ce1d6[m Refactor auto-label PRs workflow for efficiency
+[33m117001b[m Update labeler configuration file
+[33mfee237d[m Enhance greeting messages for first issues and PRs
+[33m6204666[m Create label.yml
+[33ma7a05e1[m added new automations
+[33md1b8793[m Merge pull request #57 from komalharshita/komalharshita-patch-2
+[33m93b9a04[m Update auto-label-gssoc.yml
+[33mc72f5cf[m Merge branch 'main' into docs/recommender-comments
+[33mb4bbfc2[m Improve skill input UX with shared skill dataset and autocomplete dropdown
+[33m5565da9[m Fix missing starter code files for tests
+[33maa04f25[m Merge pull request #31 from Prag-18/feat/add-copy-code-button
+[33m2b71005[m Add auto-labeling workflow for pull requests
+[33m3b6d34c[m Update label from 'gssoc-26' to 'gssoc-2026'
+[33mdb84540[m Merge pull request #39 from komalharshita/komalharshita-patch-1
+[33mc158dd0[m Add auto-labeling workflow for GSSoC issues
+[33m95c689f[m Fix mobile form spacing alignment
+[33mc667f8f[m feat: add copy code button with clipboard support to code viewer panel
+[33m1aa683e[m Add Task Manager API, URL Shortener, and Weather Dashboard
+[33m5545d10[m Improve recommender scoring documentation
+[33m3038970[m fix
+[33meaf03b4[m fix errors
+[33m1aacb32[m change location
+[33m6ec4e62[m changed file location
+[33mef2d5c6[m documented new changes for GSSOC
+[33m99c1966[m add docs
+[33m56d5990[m add CI/CL checks
+[33m1417ad7[m Merge pull request #13 from Alm0stSurely/perf/cache-json-loading
+[33m27b1d8e[m Merge pull request #14 from CarsenGafford2/main
+[33m448043e[m Improve form accessibility
+[33ma6dd247[m perf(data_loader): cache JSON data in memory to avoid repeated disk reads
+[33mff8d8d4[m Revise README for clarity and additional details
+[33m93920a5[m Add license and readme docs
+[33ma485060[m Polish UI with Eduvo-inspired hero, coloured feature cards, and full footer
+[33mbeb9be9[m Add 27-test suite covering data, recommender, validation, and routes
+[33m6e7c63c[m Add comprehensive project documentation
+[33m081eac5[m Add contributing guidelines and code of conduct
+[33m902dddd[m Refactor codebase into modular structure with routes/ and utils/
+[33m838bab6[m Merge pull request #1 from komalharshita/testing
+[33m3113558[m just testing
+[33mecc71e6[m Add permissions and update job structure in workflow
+[33mbcacc70[m Update python-app.yml
+[33m742cb57[m Create deploy.yml
+[33m165d1e8[m Create python-app.yml
+[33mba71ed9[m Update script.js
+[33m0018ff2[m Update style.css
+[33m2106ef3[m Create project.html
+[33maf43c5e[m Update index.html
+[33m4df87b0[m Update projects.json
+[33mc6e5a86[m Update recommender.py
+[33m014bb77[m Update main_routes.py
+[33m8a45abe[m Update test_basic.py
+[33m8fcd7b8[m Create architecture.md
+[33m5d7a55c[m Create project_overview.md
+[33m675e74e[m Create CODE_OF_CONDUCT.md
+[33m82ab338[m Create CONTRIBUTING.md
+[33m084ad94[m Create test_basic.py
+[33m2616d53[m Implement project recommendation system
+[33m3e1fbaf[m Create main_routes.py
+[33m26dfa34[m Update app.py
+[33m9508e39[m Update index.html
+[33m7b0d67e[m Update projects.json
+[33m5e8dadf[m Update app.py
+[33m51c259e[m Create script.js
+[33m225f7aa[m Create style.css
+[33m2c050b7[m Add initial HTML template for project recommender
+[33m45a67c6[m Add projects.json with project details
+[33mb40d889[m Add Flask dependency to requirements.txt
+[33m4889eb3[m Update app.py
+[33mbb005dd[m Create app.py
+[33m6c11302[m Initial commit
